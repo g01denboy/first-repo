@@ -5,7 +5,8 @@ int main()
 {
     system("clear");
 
-    std::cout << "\nHello GitHub!\n" << std::endl;
+    std::cout << "\nHello GitHub!" << std::endl;
+    std::cout << "Update Check\n" << std::endl;
 
     return 0;
 }
